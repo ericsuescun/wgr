@@ -1,0 +1,2 @@
+# wgr
+Well grounded Rubyist
